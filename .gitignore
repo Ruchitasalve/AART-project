@@ -1,0 +1,11 @@
+input/*
+config.py
+config.json
+venv/
+__pycache__/
+.idea/
+*.mp4
+*.weights
+video_save
+devconfig.ini
+systemConfig.json
